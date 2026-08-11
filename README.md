@@ -1,11 +1,23 @@
 # N9raw GitHub organization
 
-This repository contains the public GitHub organization profile and approved shared GitHub configuration for N9raw.
+This public repository contains the N9raw GitHub organization profile and approved organization-wide GitHub defaults.
 
-- `profile/README.md` — public organization profile
+## Public organization profile
+
+- `profile/README.md` — public N9raw organization profile
 - `profile/assets/` — approved profile brand assets
 
-Organization-wide policies and templates are added only when they are approved and applicable.
+## Organization-wide defaults
+
+GitHub can inherit these files across N9RAW repositories that do not provide a repository-specific version:
+
+- `SECURITY.md` — private security-reporting guidance
+- `SUPPORT.md` — support, corrections, privacy, and technical-routing guidance
+- `CONTRIBUTING.md` — contribution, privacy, trust, and rights boundaries
+
+Repository-specific guidance takes precedence where a repository defines its own file.
+
+Issue templates, pull-request templates, a code of conduct, governance files, funding configuration, and discussion forms are intentionally not added as organization-wide defaults until their workflows are explicitly approved and applicable. This avoids imposing generic community behavior on repositories with different operational needs.
 
 **N9raw** — Étudier, s’orienter et réussir.
 
