@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/N9RAW/.github/blob/main/SECURITY.md
+    about: Do not open a public issue for a vulnerability. Follow the private reporting guidance.
+  - name: General N9raw support
+    url: https://www.n9raw.com
+    about: GitHub is primarily for technical project work. Use the official N9raw website for general questions and support routes.
+  - name: Public information correction
+    url: https://www.n9raw.com/fr/corrections/
+    about: Report inaccurate, outdated, or incomplete student-facing public information through N9raw's correction route.
