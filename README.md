@@ -7,6 +7,19 @@ This public repository contains the N9raw GitHub organization profile and approv
 - `profile/README.md` — public N9raw organization profile
 - `profile/assets/` — approved profile brand assets
 
+## Public learning direction
+
+**N9raw Open Lab** is the public-learning side of N9raw. It is intended for original, practical and reusable guides, templates and reviewed examples that help students learn, build projects and present their work.
+
+This `.github` repository contains only the organization profile and shared GitHub defaults. Open Lab learning material belongs in dedicated public repositories and is linked from the organization profile only when it is:
+
+- useful as a standalone student resource;
+- reviewed for accuracy, privacy, security and accessibility;
+- cleared for the intended copyright and licence terms; and
+- ready to maintain, correct and improve.
+
+N9raw Open Lab does not publish private platform or Nour code, internal operations, credentials, secrets, student data, private messages, database exports, sensitive logs or educational material that N9raw does not have the right to distribute.
+
 ## Organization-wide defaults
 
 GitHub can inherit these files across N9RAW repositories that do not provide a repository-specific version:
