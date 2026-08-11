@@ -26,6 +26,19 @@
 
 Important public information is designed to be sourced, dated, reviewed and correctable. French and Arabic/RTL are first-class experiences, with accessibility and privacy treated as product requirements.
 
+## N9raw Open Lab
+
+**N9raw Open Lab** is the public-learning side of N9raw: practical, reusable and reviewed material that helps students learn by building and present their work with confidence.
+
+Its first learning scope covers:
+
+- Git and GitHub, from the first commit to a pull request;
+- clear README, university-project and PFE documentation templates;
+- student portfolio and GitHub profile guidance; and
+- small, reviewed examples in Python, Java, web development and Laravel.
+
+Public learning repositories are linked here only when their material is useful on its own, safe to share, reviewed for rights and accuracy, and ready to maintain. N9raw’s private platform code, operations, secrets and student data are never part of Open Lab.
+
 ## Nour
 
 **Nour** is N9raw’s student-assistance initiative.
