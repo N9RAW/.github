@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <title>N9raw primary horizontal logo</title>
+  <g transform="translate(48 68)">
+    <path fill="#0B3D2E" transform="scale(1.12 1.06)" d="M7 30 68 7C94-3 121 9 130 34c10 28-5 54-31 65l-72 19-12-27 73-23c13-4 20-14 18-25-2-13-15-19-30-14L16 55Z"/>
+  </g>
+  <text x="225" y="165" fill="#111816" font-family="Sora, sans-serif" font-size="138" font-weight="700" letter-spacing="-6">N9raw</text>
+  <text x="232" y="207" fill="#52605B" font-family="Sora, sans-serif" font-size="23" font-weight="500" letter-spacing=".35">Étudier, s’orienter et réussir.</text>
+</svg>
