@@ -14,10 +14,11 @@ GitHub can inherit these files across N9RAW repositories that do not provide a r
 - `SECURITY.md` — private security-reporting guidance
 - `SUPPORT.md` — support, corrections, privacy, and technical-routing guidance
 - `CONTRIBUTING.md` — contribution, privacy, trust, and rights boundaries
+- `PULL_REQUEST_TEMPLATE.md` — default pull-request structure for scope, verification, security/privacy, deployment impact, governance and handoff
 
 Repository-specific guidance takes precedence where a repository defines its own file.
 
-Issue templates, pull-request templates, a code of conduct, governance files, funding configuration, and discussion forms are intentionally not added as organization-wide defaults until their workflows are explicitly approved and applicable. This avoids imposing generic community behavior on repositories with different operational needs.
+Issue templates, a code of conduct, governance files, funding configuration, discussion forms, and repository ownership rules are intentionally not added as organization-wide defaults until their workflows are explicitly approved and applicable. This avoids imposing generic community behavior on repositories with different operational needs.
 
 **N9raw** — Étudier, s’orienter et réussir.
 
